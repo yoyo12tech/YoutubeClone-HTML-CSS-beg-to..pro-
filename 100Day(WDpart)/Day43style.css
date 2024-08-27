@@ -1,0 +1,42 @@
+*{ 
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 20px;
+
+}
+
+html{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: #ffffff;
+    font-size: 900;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+#red{
+    color: #e41515;
+}
+#blue{
+    color: #1022ae;
+}
+#green{
+    color: #11cc50;
+}
+#white{
+    color: #f6f6f6;
+}
+#yellow{
+    color: #e2e505;
+}
+#brown{
+    color: #644019;
+}
+#pink{
+    color: #c615cc;
+}
+h2{
+    color: #fff9f9;
+}
